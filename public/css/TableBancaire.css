@@ -1,0 +1,26 @@
+body{
+    overflow: hidden;
+    background-color:rgb(199, 218, 241);
+}
+table td,th{
+    border: solid 2px black ;
+}
+table input{
+    background-color:rgb(199, 218, 241);
+    border: none; 
+    outline:none;
+    }
+table input:active{
+    border: none;
+    outline:none;
+} 
+.aside button:hover{
+    background-color: #000;
+    color: blue;
+}
+
+.asidebar_active{
+    background-color: #000;
+    color: blue;
+}
+

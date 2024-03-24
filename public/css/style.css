@@ -1,0 +1,31 @@
+body{
+    overflow: hidden;
+    background-color:rgb(199, 218, 241);
+}    
+.table{
+    border-radius:15px;
+    overflow: hidden; 
+    min-width:970px;
+}                      
+.table input{ 
+    width: 100px;
+}                      
+thead tr{  
+    font-size:13px; 
+} 
+tbody tr{ 
+    font-size:14px; 
+    background-color:white;
+}
+tbody tr:hover{
+    background-color:rgb(237, 237, 237);
+} 
+.aside button:hover{
+    background-color: #000;
+    color: blue;
+}
+
+.asidebar_active{
+    background-color: #000;
+    color: blue; 
+} 
